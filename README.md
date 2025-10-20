@@ -64,17 +64,19 @@ The layout is **fully responsive** for desktop and mobile screens.
 
 ---
 
-## 🧑 Author
-
-**Amna Mehmood**  
-Frontend Developer | Designer
-
 📌 GitHub: [https://github.com/Amna7877/Collapsible-Sidebar](#)  
 📌 LinkedIn:[https://www.linkedin.com/feed/update/urn:li:ugcPost:7385991552847884288/](#)
 🌐 Live Demo: [https://collapsible-sidebar-dashboard.netlify.app](#)
 
 ---
 
+## 📢 Internship Info
+
+👩‍💻 Internship: Elevoo Task — Frontend
+🧑‍🎓 Developer: Amna Mehmood
+🌐 GitHub: @Amna7877
+
+---
 ⭐ *If you like this project, don’t forget to star the repo!*
 
 
