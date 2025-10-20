@@ -62,7 +62,7 @@ The layout is **fully responsive** for desktop and mobile screens.
 Frontend Developer | Designer
 
 📌 GitHub: [https://github.com/Amna7877/Collapsible-Sidebar](#)  
-🌐 Live Demo: [Add link here](#)
+🌐 Live Demo: [https://collapsible-sidebar-dashboard.netlify.app](#)
 
 ---
 
