@@ -1,4 +1,9 @@
 # 📊 Collapsible Sidebar Dashboard
+This project is part of my **Elevvo Pathways Internship – Task 1** under the **Frontend Development Track**.  
+🔗 Elevvo Pathways: [https://elevvopathways.tech](https://elevvopathways.tech)  
+💻 Official Elevvo GitHub: [https://github.com/Elevvo](https://github.com/Elevvo)
+
+---
 
 This is a **Responsive Fixed Dashboard Layout** with a **Collapsible Sidebar**, **Fixed Topbar**, and **Simple Cards Section**.  
 The project is built using **HTML**, **CSS**, **Bootstrap 5**, **Bootstrap Icons**, and **Chart.js**.
@@ -62,6 +67,7 @@ The layout is **fully responsive** for desktop and mobile screens.
 Frontend Developer | Designer
 
 📌 GitHub: [https://github.com/Amna7877/Collapsible-Sidebar](#)  
+📌 LinkedIn:[https://www.linkedin.com/feed/update/urn:li:ugcPost:7385991552847884288/](#)
 🌐 Live Demo: [https://collapsible-sidebar-dashboard.netlify.app](#)
 
 ---
