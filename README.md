@@ -1,7 +1,10 @@
 # 📊 Collapsible Sidebar Dashboard
-This project is part of my **Elevvo Pathways Internship – Task 1** under the **Frontend Development Track**.  
-🔗 Elevvo Pathways: [https://elevvopathways.tech](https://elevvopathways.tech)  
-💻 Official Elevvo GitHub: [https://github.com/Elevvo](https://github.com/Elevvo)
+This project is part of my **Elevvo Pathways Internship – Task 1** under the **Frontend Development Track**.
+
+🔗 Elevvo Pathways: [https://elevvo.tech](https://elevvo.tech/home)
+🔗 Elevvo Pathways LinkedIn: [https://elevvopaths](https://www.linkedin.com/company/elevvopaths/)  
+💻 Official Elevvo GitHub: [https://github.com/elevvopaths](https://github.com/elevvopaths)
+
 
 ---
 
